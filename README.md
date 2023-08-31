@@ -56,3 +56,6 @@ This command will test the functionality of the smart contract and display succe
 This project is licensed under the MIT License. For more information, refer to the LICENSE file.
 
 For more information about the project, visit the <a href="https://github.com/cptmfs/SharedItemManagement_SmartContract" target="_blank">Shared Item Management</a> GitHub repository.
+
+# Smart Contract
+If you want to review and use the contract, you can access it from the <a href="https://testnet.bscscan.com/address/0x7bbb8720c226811c522833adc0eec5b7f559b17e" target="_blank">Smart Contract</a> link.
